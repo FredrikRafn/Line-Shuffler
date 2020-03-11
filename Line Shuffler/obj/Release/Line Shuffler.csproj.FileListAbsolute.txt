@@ -1,0 +1,6 @@
+C:\Users\bobra\source\repos\Line Shuffler\Line Shuffler\bin\Release\Line Shuffler.exe
+C:\Users\bobra\source\repos\Line Shuffler\Line Shuffler\bin\Release\Line Shuffler.pdb
+C:\Users\bobra\source\repos\Line Shuffler\Line Shuffler\obj\Release\Line Shuffler.csprojAssemblyReference.cache
+C:\Users\bobra\source\repos\Line Shuffler\Line Shuffler\obj\Release\Line Shuffler.csproj.CoreCompileInputs.cache
+C:\Users\bobra\source\repos\Line Shuffler\Line Shuffler\obj\Release\Line Shuffler.exe
+C:\Users\bobra\source\repos\Line Shuffler\Line Shuffler\obj\Release\Line Shuffler.pdb
